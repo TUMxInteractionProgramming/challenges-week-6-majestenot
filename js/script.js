@@ -1,3 +1,4 @@
+/*week 6*/
 /* start the external action and say hello */
 console.log("App is alive");
 
